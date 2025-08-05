@@ -11,7 +11,7 @@ This project builds a machine learning pipeline to detect fake news using text d
 ## 📂 Project Workflow
 
 1. **Data Collection**
-   - Dataset: [Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)
+   - Dataset: [Fake News Dataset](https://drive.google.com/file/d/1vLUzI1dBgNIQAiU5NfuG4UqV8zvfmbKa/view?usp=drive_link)
    - Columns include: `title`, `text`, `label` (1 = Fake, 0 = Real)
 
 2. **Data Preprocessing**
