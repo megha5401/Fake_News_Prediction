@@ -37,10 +37,3 @@ This project builds a machine learning pipeline to detect fake news using text d
 ## 📊 Visualizations
 - WordCloud of most common fake vs real words
 - Confusion matrices for model performance
-
----
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Fake_News_Prediction.git
